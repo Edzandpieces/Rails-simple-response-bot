@@ -1,24 +1,12 @@
-# README
+## Rails - Simple response bot (aka "Stupid coaching")
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+I really like the simplicity of this app. You simply type something in and you get an appropriate response (mostly it's just telling me to go to work 🙄). 
 
-Things you may want to cover:
+## Background
 
-* Ruby version
+To get anything started on rails, it's vital to follow the MVC model and get the following up and running: 
+* a route, 
+* an action, 
+* and a view
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+I tried my best to make my /answer a little more varied than what the exercise wanted, although the highlight of this exercise came later on when we had the option to use "Headless Chrome" for System Testing. So this exercise is really more about exploring how to test a code using a browser.
